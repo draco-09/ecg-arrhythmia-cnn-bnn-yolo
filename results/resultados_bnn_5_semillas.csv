@@ -1,0 +1,6 @@
+modelo,semilla,epoca_final,f1_macro,accuracy,tiempo_entrenamiento_s,latencia_ms_por_img
+ECG_XNOR_2D (BNN),42,44,0.8226,0.8295,95.77,0.5617
+ECG_XNOR_2D (BNN),101,27,0.7873,0.7907,95.61,0.4733
+ECG_XNOR_2D (BNN),202,18,0.6024,0.6279,95.59,0.333
+ECG_XNOR_2D (BNN),303,43,0.5767,0.5969,96.49,0.2912
+ECG_XNOR_2D (BNN),404,38,0.4909,0.6047,95.43,0.3012

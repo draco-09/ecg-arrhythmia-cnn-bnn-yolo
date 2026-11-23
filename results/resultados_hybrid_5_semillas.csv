@@ -1,0 +1,6 @@
+modelo,semilla,epoca_final,f1_macro,accuracy,tiempo_entrenamiento_s,latencia_ms_por_img
+Híbrido (MobileNet+CNN),42,43,0.9845,0.9845,284.79,9.2601
+Híbrido (MobileNet+CNN),101,46,0.9609,0.9612,301.61,2.9786
+Híbrido (MobileNet+CNN),202,50,0.9691,0.969,306.23,3.0318
+Híbrido (MobileNet+CNN),303,49,0.9845,0.9845,299.38,3.5719
+Híbrido (MobileNet+CNN),404,47,0.9378,0.938,301.99,2.9258

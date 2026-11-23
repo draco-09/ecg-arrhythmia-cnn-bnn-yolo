@@ -1,0 +1,6 @@
+modelo,semilla,epoca_final,f1_macro,accuracy,tiempo_entrenamiento_s,latencia_ms_por_img
+YOLO11n-cls,42,50,0.7228,0.7364,81.04,12.1909
+YOLO11n-cls,101,50,0.6587,0.7054,50.88,9.708
+YOLO11n-cls,202,50,0.7205,0.7519,53.88,13.5072
+YOLO11n-cls,303,50,0.7811,0.7907,63.6,9.5945
+YOLO11n-cls,404,50,0.7831,0.7984,61.43,9.9095
